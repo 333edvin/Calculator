@@ -32,7 +32,7 @@ input{
     border-radius: 12px;
     padding: 24px;
     margin: 10px;
-    background:linear-gradient(145deg,#0b0c1a88,rgba(13, 16, 44, 0.514));
+    background:linear-gradient(145deg,rgb(36, 37, 41),rgba(38, 38, 44, 0.514));
     box-shadow: inset 2px 2px 5px rgb(29, 29, 29),
     inset -2px -2px 5px #292929;
     font-size: 40px;
